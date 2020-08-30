@@ -113,7 +113,7 @@ public class UserInterfaceImpl implements IUserInterfaceContract.View,
 
         // O(n^2) Run time Complexity
         for (int xIndex = 0; xIndex < 9; xIndex++) {
-            for (int yIndex = 0; yIndex < 0; yIndex++) {
+            for (int yIndex = 0; yIndex < 9; yIndex++) {
                 int x = xOrigin + xIndex  * xAndYDelta;
                 int y = yOrigin + yIndex * xAndYDelta;
 
