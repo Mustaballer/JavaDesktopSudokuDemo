@@ -37,8 +37,8 @@ public class UserInterfaceImpl implements IUserInterfaceContract.View,
     private static final double BOARD_PADDING = 50;
     private static final double BOARD_X_Y = 576;
 
-    private static final Color WINDOW_BACKGROUND_COLOR = Color.rgb(0, 150, 136);
-    private static final Color BOARD_BACKGROUND_COLOR = Color.rgb(224, 242, 241);
+    private static final Color WINDOW_BACKGROUND_COLOR = Color.rgb(65, 66, 153);
+    private static final Color BOARD_BACKGROUND_COLOR = Color.rgb(241, 242, 224);
     private static final String SUDOKU = "Sudoku";
 
     public UserInterfaceImpl(Stage stage) {
