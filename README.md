@@ -1,6 +1,6 @@
 # Java Sudoku Game
 
-The popular sudoku puzzle game delivered in javaFx.
+The popular sudoku puzzle game delivered in javaFx. This was created in Eclipse java.
 
 
 ![Sudoku Snap](https://snipboard.io/yUsuSl.jpg)
